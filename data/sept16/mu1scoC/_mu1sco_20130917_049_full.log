@@ -1,0 +1,109 @@
+-------------- Paramètres d'entrée --------------
+Objet : mu 1 sco
+Instrument : eShel 6H-139
+Site : Universidad Andes Bogota
+Observateur : Benjamin Oostra
+Répertoire de travail : c:\users\public\datos astro\septiembre 16\
+Nom générique des spectres 2D : mu1scoC
+Nombre de spectres 2D bruts : 1
+Fichier offset : biasmaster
+Fichier dark : DARK600-0
+Ficher PRNU : plano
+Fichier tungstène : tung_varias
+Fichier LED : tung_varias
+Fichier Thorium-Argon : thor_varias
+Fichier cosmétique : cosmetic-optimizado
+Fichier de réponse spectrale (traitement global) : 
+Décalage en vitesse : 0
+Correction des rayons cosmiques non effectuée
+Premier ordre analysé : 32
+Dernier ordre analysé : 52
+Largeur de la zone de binning : 8
+Largeur de la boite de recherche des raies : 10
+Nombre d'itération sélection des raies ThorAr : 4
+Rang de l'ordre de référence : 34
+Coordonnée Y de l'ordre de référence (centre image) : 412
+Longueur d'onde de référence : 6583.906
+Coordonnée X de la raie de référence : 335
+Seuil de détection des ordres : 100
+Angle alpha : 64.05
+Angle gamma : 5.75
+Nombre de traits au mm : 79
+Nombre de pixels en X : 900
+Nombre de pixels en Y : 500
+Taille des pixels : 13.60
+Focale : 85
+Delta heure : 0
+-------------------- Traitement --------------------
+Nombre d'ordres trouvé : 22
+Ordre #32 - Position : 446
+Ordre #33 - Position : 435
+Ordre #34 - Position : 412
+Ordre #35 - Position : 400
+Ordre #36 - Position : 387
+Ordre #37 - Position : 375
+Ordre #38 - Position : 362
+Ordre #39 - Position : 348
+Ordre #40 - Position : 334
+Ordre #41 - Position : 319
+Ordre #42 - Position : 304
+Ordre #43 - Position : 289
+Ordre #44 - Position : 273
+Ordre #45 - Position : 256
+Ordre #46 - Position : 239
+Ordre #47 - Position : 221
+Ordre #48 - Position : 203
+Ordre #49 - Position : 183
+Ordre #50 - Position : 163
+Ordre #51 - Position : 143
+Ordre #52 - Position : 122
+Ordre #32 :   RMS = .4990   -   Nb. raies = 9
+Ordre #33 :   RMS = .6320   -   Nb. raies = 12
+Ordre #34 :   RMS = .0087   -   Nb. raies = 14
+Ordre #35 :   RMS = .0172   -   Nb. raies = 16
+Ordre #36 :   RMS = .0113   -   Nb. raies = 16
+Ordre #37 :   RMS = .0125   -   Nb. raies = 14
+Ordre #38 :   RMS = .0153   -   Nb. raies = 15
+Ordre #39 :   RMS = .0193   -   Nb. raies = 19
+Ordre #40 :   RMS = .0294   -   Nb. raies = 14
+Ordre #41 :   RMS = .0242   -   Nb. raies = 16
+Ordre #42 :   RMS = .0217   -   Nb. raies = 14
+Ordre #43 :   RMS = .0247   -   Nb. raies = 15
+Ordre #44 :   RMS = .0090   -   Nb. raies = 13
+Ordre #45 :   RMS = .0184   -   Nb. raies = 14
+Ordre #46 :   RMS = .0116   -   Nb. raies = 11
+Ordre #47 :   RMS = .0105   -   Nb. raies = 12
+Ordre #48 :   RMS = .0103   -   Nb. raies = 14
+Ordre #49 :   RMS = .0330   -   Nb. raies = 11
+Ordre #50 :   RMS = .0118   -   Nb. raies = 9
+Ordre #51 :   RMS = .0332   -   Nb. raies = 10
+Ordre #52 :   RMS = .0168   -   Nb. raies = 10
+Resolution : 
+Order #32 :  FWHM = 2.99  -  Dispersion = .292 A/pixel  -  R = 8060.1
+Order #33 :  FWHM = 1.31  -  Dispersion = .288 A/pixel  -  R = 18031.3
+Order #34 :  FWHM = 2.03  -  Dispersion = .270 A/pixel  -  R = 12071.3
+Order #35 :  FWHM = 2.11  -  Dispersion = .266 A/pixel  -  R = 11487.6
+Order #36 :  FWHM = 1.89  -  Dispersion = .256 A/pixel  -  R = 12908.2
+Order #37 :  FWHM = 2.09  -  Dispersion = .252 A/pixel  -  R = 11564.5
+Order #38 :  FWHM = 2.14  -  Dispersion = .247 A/pixel  -  R = 11226.9
+Order #39 :  FWHM = 2.28  -  Dispersion = .240 A/pixel  -  R = 10550.4
+Order #40 :  FWHM = 2.28  -  Dispersion = .231 A/pixel  -  R = 10666.4
+Order #41 :  FWHM = 2.30  -  Dispersion = .233 A/pixel  -  R = 10279.1
+Order #42 :  FWHM = 2.32  -  Dispersion = .221 A/pixel  -  R = 10425.7
+Order #43 :  FWHM = 2.43  -  Dispersion = .224 A/pixel  -  R = 9576.9
+Order #44 :  FWHM = 2.38  -  Dispersion = .213 A/pixel  -  R = 10112.3
+Order #45 :  FWHM = 2.10  -  Dispersion = .207 A/pixel  -  R = 11479.5
+Order #46 :  FWHM = 2.26  -  Dispersion = .207 A/pixel  -  R = 10472.1
+Order #47 :  FWHM = 1.83  -  Dispersion = .199 A/pixel  -  R = 13196.0
+Order #48 :  FWHM = 2.11  -  Dispersion = .191 A/pixel  -  R = 11613.1
+Order #49 :  FWHM = 1.90  -  Dispersion = .190 A/pixel  -  R = 12706.8
+Order #50 :  FWHM = 2.02  -  Dispersion = .190 A/pixel  -  R = 11772.4
+Order #51 :  FWHM = 2.24  -  Dispersion = .185 A/pixel  -  R = 10688.9
+Order #52 :  FWHM = 2.60  -  Dispersion = .181 A/pixel  -  R = 9181.4
+-------------- Paramètres de sortie --------------
+Nom du profil de sortie : _mu1sco_20130917_049_full
+Date de prive de vue : 17/09/2013 01:10:05 a.m.
+Durée de prise de vue : 900.0
+Durée de prise de vue décomposée : 1 x 900 s
+Date de milieu de prise de vue : 17.054/09/2013
+Jour Julien géocentrique du milieu de prise de vue : 2456552.5539

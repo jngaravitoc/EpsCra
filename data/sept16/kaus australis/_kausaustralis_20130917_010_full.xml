@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--ISIS V5.1.4-->
+<eShel>
+  <ObjectName>Kaus Australis</ObjectName>
+  <ProcessingDate>17/09/2013  14:51:06</ProcessingDate>
+  <Path>c:\users\public\datos astro\septiembre 16\</Path>
+  <Instrument>eShel 6H-139</Instrument>
+  <Site>Universidad Andes Bogota</Site>
+  <Observer>Benjamin Oostra</Observer>
+  <GenericName>kaus_australis</GenericName>
+  <Number>2</Number>
+  <Offset>biasmaster</Offset>
+  <Dark>DARK600-0</Dark>
+  <PRNU>plano</PRNU>
+  <Tungsten>tung_varias</Tungsten>
+  <LED>tung_varias</LED>
+  <ThAr>thor_varias</ThAr>
+  <CosmeticFile>cosmetic-optimizado</CosmeticFile>
+  <PerOrder>No</PerOrder>
+  <Response>NA</Response>
+  <AutoAtmosphericTransmission>No</AutoAtmosphericTransmission>
+  <AOD>0.00</AOD>
+  <AtmoTrans>NA</AtmoTrans>
+  <RadialVelocityCorrection>No</RadialVelocityCorrection>
+  <CosmicRaysFilter>No</CosmicRaysFilter>
+  <FirstOrder>32</FirstOrder>
+  <LastOrder>52</LastOrder>
+  <Binning>8</Binning>
+  <FindBox>10</FindBox>
+  <NbIter>4</NbIter>
+  <RefeOrderNumber>34</RefeOrderNumber>
+  <RefOrderY>412</RefOrderY>
+  <RefWave>6583.906</RefWave>
+  <RefLineX>335</RefLineX>
+  <DetectionThreshol>100</DetectionThreshol>
+  <Alpha>64.05</Alpha>
+  <Gamma>5.75</Gamma>
+  <Groove>79</Groove>
+  <XMax>900</XMax>
+  <YMax>500</YMax>
+  <PixelSize>13.60</PixelSize>
+  <FocalLength>85</FocalLength>
+  <DeltaHour>0</DeltaHour>
+  <CosmicRay>100</CosmicRay>
+  <SigmaClipping>Yes</SigmaClipping>
+  <Resolution>11000</Resolution>
+  <SpectralShift>0</SpectralShift>
+  <InterpollationMode>Bilinear</InterpollationMode>
+</eShel>

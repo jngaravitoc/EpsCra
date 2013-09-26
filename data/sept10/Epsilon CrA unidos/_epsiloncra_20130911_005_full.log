@@ -1,0 +1,111 @@
+-------------- Paramètres d'entrée --------------
+Objet : epsilon CrA
+Instrument : eShel 6H-139
+Site : Universidad Andes Bogota
+Observateur : Benjamin Oostra
+Répertoire de travail : c:\users\public\datos astro\septiembre 10\
+Nom générique des spectres 2D : epscra
+Nombre de spectres 2D bruts : 3
+Fichier offset : biasmaster
+Fichier dark : DARK600-0
+Ficher PRNU : plano
+Fichier tungstène : tung_epscra
+Fichier LED : tung_epscra
+Fichier Thorium-Argon : thor_epscra
+Fichier cosmétique : cosmetic-optimizado
+Fichier de réponse spectrale (traitement global) : 
+Décalage en vitesse : 0
+Correction des rayons cosmiques non effectuée
+Premier ordre analysé : 32
+Dernier ordre analysé : 52
+Largeur de la zone de binning : 8
+Largeur de la boite de recherche des raies : 10
+Nombre d'itération sélection des raies ThorAr : 4
+Rang de l'ordre de référence : 34
+Coordonnée Y de l'ordre de référence (centre image) : 412
+Longueur d'onde de référence : 6583.906
+Coordonnée X de la raie de référence : 335
+Seuil de détection des ordres : 100
+Angle alpha : 64.05
+Angle gamma : 5.75
+Nombre de traits au mm : 79
+Nombre de pixels en X : 900
+Nombre de pixels en Y : 500
+Taille des pixels : 13.60
+Focale : 85
+Delta heure : 0
+-------------------- Traitement --------------------
+Nombre d'ordres trouvé : 25
+Ordre #32 - Position : 445
+Ordre #33 - Position : 434
+Ordre #34 - Position : 411
+Ordre #35 - Position : 399
+Ordre #36 - Position : 387
+Ordre #37 - Position : 374
+Ordre #38 - Position : 361
+Ordre #39 - Position : 347
+Ordre #40 - Position : 333
+Ordre #41 - Position : 318
+Ordre #42 - Position : 303
+Ordre #43 - Position : 288
+Ordre #44 - Position : 272
+Ordre #45 - Position : 255
+Ordre #46 - Position : 238
+Ordre #47 - Position : 220
+Ordre #48 - Position : 202
+Ordre #49 - Position : 182
+Ordre #50 - Position : 163
+Ordre #51 - Position : 142
+Ordre #52 - Position : 121
+Ordre #53 - Position : 98
+Ordre #54 - Position : 75
+Ordre #32 :   RMS = .9933   -   Nb. raies = 10
+Ordre #33 :   RMS = .4875   -   Nb. raies = 12
+Ordre #34 :   RMS = .0062   -   Nb. raies = 15
+Ordre #35 :   RMS = .0080   -   Nb. raies = 15
+Ordre #36 :   RMS = .0112   -   Nb. raies = 19
+Ordre #37 :   RMS = .0030   -   Nb. raies = 14
+Ordre #38 :   RMS = .0046   -   Nb. raies = 15
+Ordre #39 :   RMS = .0083   -   Nb. raies = 20
+Ordre #40 :   RMS = .0079   -   Nb. raies = 14
+Ordre #41 :   RMS = .0118   -   Nb. raies = 16
+Ordre #42 :   RMS = .0190   -   Nb. raies = 15
+Ordre #43 :   RMS = .0093   -   Nb. raies = 16
+Ordre #44 :   RMS = .0102   -   Nb. raies = 15
+Ordre #45 :   RMS = .0129   -   Nb. raies = 14
+Ordre #46 :   RMS = .0051   -   Nb. raies = 13
+Ordre #47 :   RMS = .0030   -   Nb. raies = 13
+Ordre #48 :   RMS = .0040   -   Nb. raies = 15
+Ordre #49 :   RMS = .0077   -   Nb. raies = 11
+Ordre #50 :   RMS = .0028   -   Nb. raies = 9
+Ordre #51 :   RMS = .0042   -   Nb. raies = 10
+Ordre #52 :   RMS = .0082   -   Nb. raies = 11
+Resolution : 
+Order #32 :  FWHM = 2.76  -  Dispersion = .294 A/pixel  -  R = 8664.9
+Order #33 :  FWHM = 1.73  -  Dispersion = .288 A/pixel  -  R = 13700.4
+Order #34 :  FWHM = 2.12  -  Dispersion = .272 A/pixel  -  R = 11451.9
+Order #35 :  FWHM = 2.16  -  Dispersion = .266 A/pixel  -  R = 11185.9
+Order #36 :  FWHM = 2.19  -  Dispersion = .257 A/pixel  -  R = 11091.5
+Order #37 :  FWHM = 2.35  -  Dispersion = .251 A/pixel  -  R = 10303.4
+Order #38 :  FWHM = 2.42  -  Dispersion = .246 A/pixel  -  R = 9928.1
+Order #39 :  FWHM = 2.52  -  Dispersion = .240 A/pixel  -  R = 9527.3
+Order #40 :  FWHM = 2.70  -  Dispersion = .232 A/pixel  -  R = 8978.3
+Order #41 :  FWHM = 2.69  -  Dispersion = .233 A/pixel  -  R = 8765.3
+Order #42 :  FWHM = 2.84  -  Dispersion = .219 A/pixel  -  R = 8632.6
+Order #43 :  FWHM = 2.78  -  Dispersion = .220 A/pixel  -  R = 8574.6
+Order #44 :  FWHM = 2.67  -  Dispersion = .212 A/pixel  -  R = 9024.7
+Order #45 :  FWHM = 2.70  -  Dispersion = .208 A/pixel  -  R = 8907.8
+Order #46 :  FWHM = 2.43  -  Dispersion = .204 A/pixel  -  R = 9854.4
+Order #47 :  FWHM = 2.22  -  Dispersion = .199 A/pixel  -  R = 10833.3
+Order #48 :  FWHM = 2.09  -  Dispersion = .195 A/pixel  -  R = 11506.8
+Order #49 :  FWHM = 1.97  -  Dispersion = .193 A/pixel  -  R = 12111.8
+Order #50 :  FWHM = 1.97  -  Dispersion = .187 A/pixel  -  R = 12213.5
+Order #51 :  FWHM = 2.21  -  Dispersion = .184 A/pixel  -  R = 10837.4
+Order #52 :  FWHM = 2.79  -  Dispersion = .178 A/pixel  -  R = 8689.3
+-------------- Paramètres de sortie --------------
+Nom du profil de sortie : _epsiloncra_20130911_005_full
+Date de prive de vue : 11/09/2013 12:07:54 a.m.
+Durée de prise de vue : 2707.0
+Durée de prise de vue décomposée : 3 x 240 s
+Date de milieu de prise de vue : 11.021/09/2013
+Jour Julien géocentrique du milieu de prise de vue : 2456546.5212
