@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.5.28)  26 SEP 2013 02:10
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.5.28)  27 SEP 2013 05:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -77,7 +77,64 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(./draft.aux
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+) (./draft.aux
 
 LaTeX Warning: Label `la' multiply defined.
 
@@ -98,17 +155,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
  (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count89
-\scratchdimen=\dimen105
-\scratchbox=\box27
-\nofMPsegments=\count90
-\nofMParguments=\count91
-\everyMPshowfont=\toks15
-\MPscratchCnt=\count92
-\MPscratchDim=\dimen106
-\MPnumerator=\count93
-\makeMPintoPDFobject=\count94
-\everyMPtoPDFconversion=\toks16
+\scratchcounter=\count101
+\scratchdimen=\dimen114
+\scratchbox=\box29
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen115
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -157,79 +214,219 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 67.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 67.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 67.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 67.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 67.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 110.
+Underfull \hbox (badness 10000) in paragraph at lines 91--95
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--95
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 122.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 110.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 122.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 119--121
+Overfull \hbox (2.88638pt too wide) in paragraph at lines 122--123
+[]\OT1/cmr/m/n/12 O son es-trel-las de azules (calientes) de tem-per-atura su-p
+er-fi-cial en-tre 20000K
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
-<CRA.png, id=13, 501.875pt x 462.72874pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+
+Overfull \hbox (7.12523pt too wide) in paragraph at lines 127--128
+[]\OT1/cmr/m/n/12 K son es-trel-las naranjas-amarillas con una tem-per-atura su
+-per-fi-cial de 4000K. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Overfull \hbox (29.7746pt too wide) in paragraph at lines 175--189
+[][] 
+ []
+
+<CRA.png, id=17, 501.875pt x 462.72874pt>
 File: CRA.png Graphic file (type png)
  <use CRA.png>
-Package pdftex.def Info: CRA.png used on input line 140.
+Package pdftex.def Info: CRA.png used on input line 193.
 (pdftex.def)             Requested size: 200.74643pt x 185.08821pt.
 
-Overfull \hbox (59.2836pt too wide) in paragraph at lines 141--141
-[]\OT1/cmss/bx/n/12 FIG. 1.[]Corona Aus-tralis, http://www.iau.org/static/publi
-c/constellations/gif/CRA.gif
- []
 
-<SCT2.jpg, id=15, 803.0pt x 313.17pt>
+LaTeX Warning: Reference `montaje' on page 3 undefined on input line 204.
+
+<SCT2.jpg, id=19, 803.0pt x 313.17pt>
 File: SCT2.jpg Graphic file (type jpg)
  <use SCT2.jpg>
-Package pdftex.def Info: SCT2.jpg used on input line 159.
+Package pdftex.def Info: SCT2.jpg used on input line 217.
 (pdftex.def)             Requested size: 321.1943pt x 125.26576pt.
+ [3]
+<espectroscopio.jpg, id=25, 722.7pt x 963.6pt>
+File: espectroscopio.jpg Graphic file (type jpg)
+ <use espectroscopio.jpg>
+Package pdftex.def Info: espectroscopio.jpg used on input line 229.
+(pdftex.def)             Requested size: 144.53743pt x 192.71658pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
-[]\OT1/cmss/bx/n/12 FIG. 2.[]Camino de luz en un tele-sco-pio Schmidt-Cassegrai
-n,
+<montaje.jpg, id=26, 722.7pt x 963.6pt>
+File: montaje.jpg Graphic file (type jpg)
+ <use montaje.jpg>
+Package pdftex.def Info: montaje.jpg used on input line 230.
+(pdftex.def)             Requested size: 144.53743pt x 192.71658pt.
+ [4 <./CRA.png> <./SCT2.jpg>] <Espectro1.png, id=33, 686.565pt x 650.43pt>
+File: Espectro1.png Graphic file (type png)
+ <use Espectro1.png>
+Package pdftex.def Info: Espectro1.png used on input line 272.
+(pdftex.def)             Requested size: 226.56715pt x 214.64256pt.
+
+<Espectro2.png, id=34, 686.565pt x 650.43pt>
+File: Espectro2.png Graphic file (type png)
+ <use Espectro2.png>
+Package pdftex.def Info: Espectro2.png used on input line 273.
+(pdftex.def)             Requested size: 226.56715pt x 214.64256pt.
+
+<Espectro3.png, id=35, 686.565pt x 650.43pt>
+File: Espectro3.png Graphic file (type png)
+ <use Espectro3.png>
+Package pdftex.def Info: Espectro3.png used on input line 274.
+(pdftex.def)             Requested size: 226.56715pt x 214.64256pt.
+
+
+LaTeX Warning: Float too large for page by 37.98051pt on input line 276.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--280
+
  []
 
-[2 <./CRA.png>] [3 <./SCT2.jpg>] (./draft.aux)
+[5 <./espectroscopio.jpg> <./montaje.jpg>] [6 <./Espectro1.png> <./Espectro2.pn
+g> <./Espectro3.png>] <ha1.png, id=45, 686.565pt x 650.43pt>
+File: ha1.png Graphic file (type png)
+ <use ha1.png>
+Package pdftex.def Info: ha1.png used on input line 293.
+(pdftex.def)             Requested size: 226.56715pt x 214.64256pt.
+
+<ha2.png, id=46, 686.565pt x 650.43pt>
+File: ha2.png Graphic file (type png)
+ <use ha2.png>
+Package pdftex.def Info: ha2.png used on input line 294.
+(pdftex.def)             Requested size: 226.56715pt x 214.64256pt.
+
+<ha3.png, id=47, 686.565pt x 650.43pt>
+File: ha3.png Graphic file (type png)
+ <use ha3.png>
+Package pdftex.def Info: ha3.png used on input line 295.
+(pdftex.def)             Requested size: 226.56715pt x 214.64256pt.
+
+
+LaTeX Warning: Float too large for page by 37.98051pt on input line 297.
+
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ± in font cmr12!
+
+Overfull \hbox (140.79973pt too wide) in paragraph at lines 308--314
+\OT1/cmr/m/n/12 3. Alan H. Bat-ten, J. Mur-ray Fletcher and D. G. Mac-Carthy, h
+ttp://ad.usno.navy.mil/wds/dsl/SB8/sb8.html 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--314
+
+ []
+
+[7] [8 <./ha1.png> <./ha2.png> <./ha3.png>] (./draft.aux)
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1660 strings out of 495059
- 23290 string characters out of 3182030
- 77596 words of memory out of 3000000
- 4840 multiletter control sequences out of 15000+200000
- 8830 words of font info for 31 fonts, out of 3000000 for 9000
+ 2302 strings out of 495059
+ 30616 string characters out of 3182030
+ 89929 words of memory out of 3000000
+ 5456 multiletter control sequences out of 15000+200000
+ 9364 words of font info for 34 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 37i,11n,23p,234b,280s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,11n,23p,351b,244s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmti12.pfb>
-Output written on draft.pdf (3 pages, 276149 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti12.pfb>
+Output written on draft.pdf (8 pages, 999467 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 94 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
