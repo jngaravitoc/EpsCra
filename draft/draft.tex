@@ -36,7 +36,7 @@ Nicolas Garavito-Camargo,%
 \thanks{
 Dept.\ de F\'isica.,
 Universidad de los Andes, 
-Calle 1...\ Bogot\'a, Colombia. E-mail: jn.garavito57@uniandes.edu.co}
+Cra 1 Nº 18A- 12\ Bogot\'a, Colombia. E-mail: jn.garavito57@uniandes.edu.co}
 \ Benjamin Oostra\footnotemark[1]
 %
 % Adding a second author with the same affiliation (still using \thanks):
@@ -95,9 +95,9 @@ complemento de este trabajo.\\
 
 \section{Marco Te\'orico}
 
-\subsection{Espectrografia}
+\subsection{Espectrograf\'ia}
 
-La espectrografia es una tecninca en la cual la luz se descompone en las diferentes
+La espectrograf\'ia es una tecninca en la cual la luz se descompone en las diferentes
 longitudes de onda. A partir de la intensidad de las diferentes lineas de emisi\'on/absorci\'on
 se pueden encontrar cantidades f\'isicas, tales 
 como la composici\'on quimica, temperatura superficial, la masa, tasas de formacion estelar
@@ -111,7 +111,7 @@ con el tiempo.
 La espectrografia es la tecnica mediante la cual se puede obtener mas informaci\'on de la radiacion 
 proveniente de los diferentes objetos celestes.
 
-\subsection{Clasificacion espectral de las estrellas}
+\subsection{Clasificaci\'on espectral de las estrellas}
 
 Esta clasificaci\'on de denomina clasificaci\'on espectral de Harvard en esta las estrellas se clasifican seg\'un su temperatura as\'i:[2]\\
 
@@ -133,8 +133,8 @@ O-B-A-F-G-K-M-L-T\\
 
 \subsection{Binarias espectrosc\'opicas}
 
-Las estrellas binarias espectrosc\'opicas solo se pueden detectar mediante sus espectros,  
-estos espectros muestran dos veces las lineas de absorci\\on o emisi\'on una con corrimiento hacia 
+Las estrellas binarias espectrosc\'opicas solo se pueden detectar mediante sus espectros,  señalan
+estos espectros muestran dos veces las lineas de absorci\'on o emisi\'on una con corrimiento hacia 
 el rojo y la otra al azul debido al movimiento [poner referencia a nuestro espectro]
 orbital de las estrellas, donde la maxima separacion sera cuando una estrella se aleja de la
 linea de vision y la otra se acerca, el periodo de estas separaciones correspondera al periodo
@@ -143,6 +143,7 @@ orbital de la binaria.
 Para encontrar la velocidad relativa tenemos que:
 \begin{equation}
 \dfrac{v}{c} \simeq z = \dfrac{\lambda_{o} - \lambda_{e}}{ \lambda_{e}}
+\label{v}
 \end{equation} 
 
 \section{Seleci\'on de la binaria a observar}
@@ -172,7 +173,7 @@ $\mu 1$ $\mathrm{Sco}$ & 16h52m48s & $-38^{0}04'11''$& 1.44 & B1.5V& 3.00\\
 \end{tabular}
 \\
 Entre estas dos estrellas se selecciono Epsilon de la Coronae Australis (${\epsilon}$ CRA) ubicada en la 
-constelacion de la Coronae Australis Fig. \ref{la}, ya que su periodo es el mas corto, pero tambien se tomaron 
+constelacion de la Coronae Australis Fig. \ref{la}, ya que su per\'iodo es el mas corto, pero tambien se tomaron 
 espectros de $\mu 1$ del escorpion. 
 
 
@@ -200,7 +201,7 @@ el espectr\'ografo.
 Se utiliz\'o un telescopio marca Meade LX200 Schimdt-Cassegrain Fig.\ref{la} de $40 cm$ de apertura y una
 distancia focal de $4m$.
 
-\begin{figure}
+\begin{figure}señalan
 \centering
 \includegraphics[scale=0.4]{SCT2.jpg}
 \caption{Camino de luz en un telescopio Schmidt-Cassegrain [6] \label{la}}
@@ -212,13 +213,12 @@ distancia focal de $4m$.
 El espectr\'rografo que se utilizo (Espartaco) Fig.\ref{espectrografo} es un espectrografo de alta resolucion en el cual la luz del telescopio llega por medio de una fibra \'optica, luego esta luz es descompuesta por una rendija de difracci\'on y finalmente la radiaci\'on es recolectada en una CCD.
 
 
-%%\begin{figure}
-%\centering
-%\includegraphics[scale=0.2]{espectroscopio.jpg}
-%\includegraphics[scale=0.2]{montaje.jpg}
-
-%\caption{Espectrografo (Izquierda), Montaje experimental (Derecha) %\label{espectrografo}}
-%\end{figure}
+\begin{figure}
+\centering
+\includegraphics[scale=0.2]{espectroscopio.jpg}
+\includegraphics[scale=0.2]{montaje.jpg}
+\caption{Espectrografo (Izquierda), Montaje experimental (Derecha)\label{espectrografo}}
+\end{figure}
 
 
 
@@ -247,25 +247,119 @@ fibras opticas.
 \end{itemize}
 
 \section{Discusion y resultados}
-https://github.com/jngaravitoc/EpsCra/tree/master/data.
 
 De los espectros observados para $\varepsilon CRA$ ninguno presenta 
-lineas dobles [poner referencia de github con las imagenes], sin estas lineas no es posible obtener informacion 
+lineas dobles [poner referencia de github con las imagenes], sin estas lineas dibles no es posible obtener informacion 
 relevante sobra la orbita de la binaria. Por lo tanto con estos espectros
 calcularemos la velocidad radial del sistema, y se usaran los espectros
-de Spica, previamnete tomados en el mismo telescopio con el fin de 
-hacer el analisis de la orbita de Spica.
+de Spica (otra binaria) previamnete tomados en el mismo telescopio con el fin de hacer el analisis de la orbita de Spica.
 
-\subsection{Velocidades radiales de $\varepsilon CRA$}
+\subsection{Velocidad radial de $\varepsilon CRA$}
 
-Para hallar primero identificamos las lineas que tengan mejor 
-perfil, es decir que no sean tan anchas y sobresalgan del continuo.
+En la tabla\ref{spectra} se encuentra un resumen de los espectros tenidos en cuenta para encontrar la velocidad radial.\\
+
+\begin{table}
+\begin{center}
+\begin{tabular}{|c| c |c|}
+\hline
+Nombre & Fecha & Hora\\
+\hline
+$Sept10EpscraA$ & Septiembre 10 & $14.254$\\
+\hline
+$Sept10EpscraB$ & Septiembre 10 & $14.254$\\
+\hline
+$Sept10EpscraC$ & Septiembre 10 & $14.254$\\
+\hline
+$Sept13EpscraA$ & Septiembre 13 & $13.996$\\
+\hline
+$Sept13EpscraB$ & Septiembre 13 & $14.039$\\
+\hline
+$Sept13EpscraC$ & Septiembre 13 & $14.062$\\
+\hline
+$Oct15A$ & octubre 15 & $16.007$\\
+\hline
+$Oct15B$ & octubre 15 & $16.016$\\
+\hline
+$Oct15C$ & octubre 15 & $16.032$\\
+\hline
+$Oct15D$ & octubre 15 & $16.045$\\
+\hline
+$Oct15E$& octubre 15 & $16.057$\\
+\hline
+$Oct15F$ & octubre 15 & $16.070$\\
+\hline
+\end{tabular}
+\caption{Espectros utilizados\label{spectra}}
+\end{center}
+\end{table}
+
+
+Para hallar la velocidad radial primero identificamos las lineas que tengan mejor perfil (en su mayoria son las de FeI y FeII) es decir que no sean tan anchas y sobresalgan del continuo.
+En la Fig.\ref{espectra} se muestra las lineas que se escogieron para el $Oct15F$. Para hallar las longitud de onda observada
+se escogia respecto el centro de la linea i.e el punto en el cual la intensidad corresponde al FWHM. \\
+
+Las barras de error corresponden al error a la hora de encontrar la longitud observada, as\'i el error en logntiud de onda aparentemente no sea tan significativo $\sim 0.1 \AA$ este error 
+en velocidad si es considerable $\sim 7 kms^{-1}$. \\ 
+
+Tambien hay presencia de lineas mezcladas, es decir en una aparante linea pueden haber dos o m\'as lineas de distintos 
+elementos. Esto hace que el centro de la linea se vea modificiado lo cual cambiaria la longitud de onda observada, 
+un m\'etodo para evitar esto es ajustar funciones Gaussianas a cada una de las lineas y as\'i separarlas y saber con exactitud el centro de la linea.\\
 
 \begin{figure}
-\includegraphics[scale=•]{•}
+\includegraphics[scale=0.3]{spectra.png}
+\caption{Espectros de $\varepsilon CRA$ tomados el 15/oct/2013
+las lineas punteadas corresponden a la longitud de onda observada, las 
+lineas solidas corresponden a la longitud de onda emitida esta ulitma se tomo de [XXX]\label{espectra}}
+\end{figure}
+
+Haciendo uso de \eqref{v} se encontro la velocidad para cada linea Fig\ref{vradial} cuyo valor promedio fue de $55.285 \pm 6.59 Km s^{-1}$ el error porcentual respecto al valor reportado por \ref{brimel} $57.9 \pm 1.2 Kms^{-1}$ fue de $4.51\%$. \\
+
+\begin{figure}
+\includegraphics[scale=0.5]{radialvelocity.png}
+\caption{Velocidad Radial de cada una de las lin\'eas en funci\'on de la longitud de onda. La linea roja representa el valor reportado por S.Bilir et al (2005), la azul punteada el valor promedio encontrado con [nombre dle espectro] de $v=55.285 \pm 6.59 Kms^{-1}$\label{vradial}}
+\end{figure}
+
+Con el fin de buscar alg\'un indicio del la orbita en el espectro de $\varepsilon CRA$ buscamos efectos tales como 
+el ensanchamiento de la linea o alguna relacion velocidad radial/fase. Donde la fase representa el moemnto en el cual el 
+sistema binario esta.\\
+
+Para esto se utilizaron todos los espectros tomados en Octubre 15. En la Fig.\ref{AllSpectra} se muestra como el centro de la linea se ve ligeremante afectado por la diferencia de tiempo en la que son tomados los espectros.\\
+
+\begin{figure}
+\includegraphics[scale=0.5]{epscraEspectra.png}
+\caption{Velocidad radial para todos los espectros de Octubre 15. \label{AllSpectra}}
+\end{figure}
+
+\begin{figure}
+\includegraphics[scale=0.5]{anchovsfase.png}
+\caption{Velocidad radial para todos los espectros de Octubre 15. \label{FWHM}}
+\end{figure}
+
+\begin{figure}
+\includegraphics[scale=0.5]{velocidadvsfase.png}
+\caption{Velocidad radial para todos los espectros de Octubre 15. \label{vvsfase}}
+\end{figure}
+
+
+Todos los datos tomados estan disponible en:
+
+$ https://github.com/jngaravitoc/EpsCra/tree/master/data.$
+
+El desarrollo para encontrar las velocidades radiales esta 
+disponible en:
+
+$http://nbviewer.ipython.org/urls/raw.github.com/jngaravitoc/EpsCra/master/Spectra_analysis.ipynb
+$
+\subsection{Periodo Orbital de Spica}
 
 
 \section{Conclusiones}
+
+\section{Agradecimientos}
+
+JNGC agradece a BO por su infantable y tiempo
+asi como tambien a Juan Camilo Buitrago Astr\'onomo encargo
+del observatorio  
 
 \section{Referencias}
 
