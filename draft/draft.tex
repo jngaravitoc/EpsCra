@@ -212,13 +212,13 @@ distancia focal de $4m$.
 El espectr\'rografo que se utilizo (Espartaco) Fig.\ref{espectrografo} es un espectrografo de alta resolucion en el cual la luz del telescopio llega por medio de una fibra \'optica, luego esta luz es descompuesta por una rendija de difracci\'on y finalmente la radiaci\'on es recolectada en una CCD.
 
 
-\begin{figure}
-\centering
-\includegraphics[scale=0.2]{espectroscopio.jpg}
-\includegraphics[scale=0.2]{montaje.jpg}
+%%\begin{figure}
+%\centering
+%\includegraphics[scale=0.2]{espectroscopio.jpg}
+%\includegraphics[scale=0.2]{montaje.jpg}
 
-\caption{Espectrografo (Izquierda), Montaje experimental (Derecha) \label{espectrografo}}
-\end{figure}
+%\caption{Espectrografo (Izquierda), Montaje experimental (Derecha) %\label{espectrografo}}
+%\end{figure}
 
 
 
@@ -246,50 +246,26 @@ fibras opticas.
 \item Tomar los espectros, entre 5 y 15 min cada uno.
 \end{itemize}
 
-\section{Resultados preliminares}
+\section{Discusion y resultados}
+https://github.com/jngaravitoc/EpsCra/tree/master/data.
 
-A continuaci\'on Fig. \ref{eps} se muestran 3 espectros que se tomaron en 3 diferentes dias, cada uno de 
-estos espectros representa la mejor medicion del dia en que se tomaron. Todos los espectros
-tomados se encuentran a disposicion en el repositorio https://github.com/jngaravitoc/EpsCra/tree/master/data.
-Es importante resaltar que se han tomado muchos mas espectros pero se han tenido problemas con la contaminacion 
-luminica, nubosidad y un error en el monataje experimental que hizo que los espectros resultantes no fueran 
-apropiadas para el estudio que se pretende realizar.
+De los espectros observados para $\varepsilon CRA$ ninguno presenta 
+lineas dobles [poner referencia de github con las imagenes], sin estas lineas no es posible obtener informacion 
+relevante sobra la orbita de la binaria. Por lo tanto con estos espectros
+calcularemos la velocidad radial del sistema, y se usaran los espectros
+de Spica, previamnete tomados en el mismo telescopio con el fin de 
+hacer el analisis de la orbita de Spica.
 
-\begin{figure}
-\centering
-\includegraphics[scale=0.33]{Espectro1.png}
-\includegraphics[scale=0.33]{Espectro2.png}
-\includegraphics[scale=0.33]{Espectro3.png}
-\caption{Tres diferentes espectros de eps CRA\label{eps}}
-\end{figure}
+\subsection{Velocidades radiales de $\varepsilon CRA$}
 
-A partir de la Fig. \ref{eps} se pueden buscar las principales lineas de absorci\'on como por ejemplo $H\alpha$
-Fig. \ref{ha} y con esta hallar informaci\'on sobre el periodo de la estrella binaria. Pero debido a los pocos espectros obtenidos hasta el momento no es posible encontrar el periodo de la orbita. Lo que es posible hallar es la velocidad a la cual el sistema se esta alejando de nosotros haciendo uso de la ecuaci\'on (1) y (2).\\
-
-\begin{tabular}{c c c c}
-\hline
-Espectro & Velocidad ($km/s$) & $v_{teo}$ ($km/s$) [3]& Error \%  \\
-\hline
-1 & 63.69 & 61.9 & 2.89\\
-2 & 63.69 & 61.9 & 2.89 \\
-3 & 63.69 & 61.9 & 2.89\\
-\hline
-\end{tabular}
+Para hallar primero identificamos las lineas que tengan mejor 
+perfil, es decir que no sean tan anchas y sobresalgan del continuo.
 
 \begin{figure}
-\centering
-\includegraphics[scale=0.33]{ha1.png}
-\includegraphics[scale=0.33]{ha2.png}
-\includegraphics[scale=0.33]{ha3.png}
-\caption{Tres diferentes espectros de eps CRA en la region de H$\alpha$\label{ha}}
-\end{figure}
-
-Se espera que con al menos 4 espectros mas ya se pueda obtener el periodo de la \'orbita. 
-Estos espectros se tomaran en el transcurso del mes de octubre del presente año. 
-Todos el tratamiento de los datos se llevo acabo con python y se encuentra disponible en:
-https://github.com/jngaravitoc/EpsCra
+\includegraphics[scale=•]{•}
 
 
+\section{Conclusiones}
 
 \section{Referencias}
 
